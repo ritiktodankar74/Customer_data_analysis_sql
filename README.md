@@ -23,3 +23,6 @@ The objective of this project is to analyze customer address data to understand 
 
 ##  Conclusion
 This analysis helps in understanding customer distribution patterns and ensures data quality for better business decision-making.
+## Sample Output
+
+![Query Result](dataset.png)
